@@ -24860,9 +24860,24 @@
       "tags": [
         "wrapped",
         "wormhole"
-      ]
+      ],
+    {
+      "chainId": 101,
+      "address": "9pepA2Xc5QYHsWFNfUYquqU7pZhQuMQeuoTqbafiaMfY",
+      "symbol": "BAPE",
+      "name": "BAPE",
+      "decimals": 9,
+      "logoURI": "https://uploads-ssl.webflow.com/613eac65a7e4761a35516bbf/618dd1edc714958122b75acf_bape_token%40512x.png",
+      "tags": [
+      "community-token", "bape-token", "Solana Hot Springs","nfts"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/HotSpringMonkey",
+        "discord": "https://t.co/Rm7TB4jPeB?amp=1"
+      }
     }
   ],
+
   "version": {
     "major": 0,
     "minor": 3,
